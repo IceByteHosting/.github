@@ -27,7 +27,7 @@ We provide powerful servers that bring lag-free gameplay with cutting-edge hardw
 ## 🌐 Get in Touch
 
 - **Website:** [www.icebytehosting.com](https://www.icebytehosting.com)
-- **Support:** [support@icebytehosting.com](mailto:support@icebyte.network)
+- **Support:** [support@icebyte.network](mailto:support@icebyte.network)
 - **Community:** [Join our Discord](https://discord.icebytehosting.com)
 
 ---
